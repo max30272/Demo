@@ -12,7 +12,7 @@ Platform assembly: G:\Max\UnityProject\Roll-a-Ball_v2\Builds\Game_Data\Managed\A
 Loading G:\Max\UnityProject\Roll-a-Ball_v2\Builds\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: G:\Max\UnityProject\Roll-a-Ball_v2\Builds\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading G:\Max\UnityProject\Roll-a-Ball_v2\Builds\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.257 seconds
+- Completed reload, in  0.183 seconds
 desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
